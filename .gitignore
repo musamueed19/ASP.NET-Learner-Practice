@@ -1,0 +1,30 @@
+# Visual Studio-specific folders
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+
+# Packages folder (if you are using package restore)
+packages/
+
+# Configuration files
+*.config
+!Web.config
+!Web.Debug.config
+!Web.Release.config
+
+# User-specific files
+*.csproj.user
+*.csproj.DotSettings
+
+# Backup & temporary files
+*.log
+*.tlog
+*.cache
+*.temp
+*.tmp
